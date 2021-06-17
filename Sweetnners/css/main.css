@@ -57,9 +57,10 @@ body{
 }
 /*navbar*/
 .navbar{
-    background-color: transparent;
+    background-color: rgb(247, 226, 244);
     border: 0;
     padding: 2em;
+   
 }
 .navbar button{
     background-color:crimson ;
@@ -68,16 +69,16 @@ body{
     background-color:crimson!important;
 }
 .navbar-brand{
-    color: rgb(136, 7, 119) !important;
+    color: rgb(85, 5, 74) !important;
     font-size: 5em;
 }
 .navbar a:not(.navbar-brand){
-    color: rgb(65, 5, 65) !important;
+    color: rgb(201, 18, 88) !important;
     font-size: 3em;
     font-weight: bolder;
 }
 .navbar a:hover{
-    color: rgb(94, 23, 160) !important;
+    color: rgb(118, 35, 134) !important;
 }
 /*photos*/
 #photos{
